@@ -7,3 +7,6 @@
 * 作者：katuomeme　https://twitter.com/katuo_meme
 * ウェブサイト：https://katuomeme.com/dm/
 * Discordサーバー：https://discord.gg/de3h9Ja
+
+# License
+Apache License 2.0
